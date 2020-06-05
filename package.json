@@ -1,0 +1,26 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "<h4 align=\"center\">  \t🚧 NextLevelWeek 1.0 🚀 em construção... 🚧 </h4>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psbragaaraujo/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "psbragaaraujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psbragaaraujo/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/psbragaaraujo/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
